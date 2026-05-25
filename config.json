@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyealculate",
+        "uuid": 376353,
+        "checksum": "qevbup"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
